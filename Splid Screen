@@ -1,0 +1,11 @@
+[
+{
+"version" : "1.0","update" : "close", "update_link" : "link",
+"homepage_banner" : "open", "homepage_bannerlink" : "link", "homepage_bannerimage" : "image",
+"dialog_banner" : "open", "dialog_bannerlink" : "link", "dialog_bannerimage" : "image",
+"news_banner" : "open", "news_bannerlink" : "link", "news_bannerimage" : "image",
+"player1" : "open", "player1_link" : "link", "player1_image" : "image",
+"player2" : "open", "player2_link" : "link", "player2_image" : "image",
+"player3" : "open", "player3_link" : "link", "player3_image" : "image"
+}
+]
