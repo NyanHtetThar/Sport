@@ -6,5 +6,6 @@
 {"live" : "open", "club" : "Premire League", "date" : "10.10.2024","time" : "8:00 PM",
 "team1name" : "Livepool", "team2name" : "Chealse", "team1image" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/380px-Chelsea_FC.svg.png", "team2image" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/640px-Manchester_United_FC_crest.svg.png",
 "link1" : "link", "league_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2yD10EZOO5pjI30a2jFurlsY-8vn7chBOQ&s",
-"link2" : "link", "link3" : "link", "link4" : "close"}
+"link2" : "link", "link3" : "link", "link4" : "close"},
+{ "live" : "close", "club" : "Itealy Series A", "date" : "26.10.2024", "time" : "1:15 AM", "team1name" : "Turin", "team2name" : "Como", "team1image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1asWaNdrBFX8Wjez26d-kgHqP1J9FRHFK-XJIgj_XPkJBCJ12hCh11w&s", "team2image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOniBlh92LOFlRJ7SrDrzYHz9vi4TwA9Gc1wKmcKG1sA&s", "league_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNeluRXlXoOsLgXLO9h5WaJxFc1CehKj5a6Xrm-_bKunNzZ1Yt9XXXqN4&s", "link1" : "a", "link2" : "b", "link3" : "c", "link4" : "d"}
 ]
