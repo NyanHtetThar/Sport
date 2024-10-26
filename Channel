@@ -1,5 +1,6 @@
 [
 {"name" : "Channel7", "link" : "l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCA3OjUyOjUzIEFNJmhhc2hfdmFsdWU9aUg5WGRITVlxRVB5YlBPYkw0djJFdz09JnZhbGlkbWludXRlcz0xMCZpZD0xMzgyMTA5MzI=",
 "image" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-120x120-81c.jpg"},
-{ "name" : "5Plus", "link" : "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc_ZZsQRhBE4SD2Q_jl3Vr9Hgbw12gSoLvrA&s"}
+{ "name" : "5Plus", "link" : "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc_ZZsQRhBE4SD2Q_jl3Vr9Hgbw12gSoLvrA&s"},
+{ "name" : "MRTV", "link" : "link", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2z2ChHoQQ4ofXuFaVTTQXvviix73H2ZypM7qkD_HKw&s"}
 ]
