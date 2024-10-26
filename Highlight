@@ -1,7 +1,4 @@
 [
-{"live" : "close", "club" : "Premire League", "date" : "10.10.2024","time" : "8:00 PM",
-"team1name" : "Livepool", "team2name" : "Chealse", "team1image" : "https://1000logos.net/wp-content/uploads/2017/04/Logo-Liverpool.png", "team2image" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/380px-Chelsea_FC.svg.png",
-"team1goal" : "3", "team2goal" : "2", "link" : "link", "league_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2yD10EZOO5pjI30a2jFurlsY-8vn7chBOQ&s"},
 { "club" : "Preamire League", "date" : "26.10.2024", "time" : "1:15 AM", "team1name" : "Turni", "team2name" : "Como", "team1image" : "image", "team2image" : "image", "league_image" : "image", "team1goal" : "3", "team2goal" : "0", "link" : "aaa"},
 { "club" : "Preamire League", "date" : "27.10.2024", "time" : "8:30 AM ", "team1name" : "ManU", "team2name" : "Man City", "team1image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvMH_NUjhwnZN756e41sC4q1-KvHkaWflG5Csnk5JP8v3XK1STrbgVuak&", "team2image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOw3t3O9zKW0aBTvWM5li7WxePYY3s_nHDoBnxwdaARi0hn404D3IFwrI&s", "league_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-FgF6eliPBRWD1WB7brybHCW6RWpv7PTeI_Yaj1hVgw&s", "team1goal" : "5", "team2goal" : "3", "link" : "link"}
 ]
