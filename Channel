@@ -1,3 +1,2 @@
 [
-{"name" : "Channel7", "link":"https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8}
-]
+{"name" : "Channel7", "link":{ "name" : "", "link" : "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8", "image" : ""}
