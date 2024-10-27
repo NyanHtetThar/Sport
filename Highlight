@@ -1,4 +1,3 @@
 [
-{ "club" : "Preamire League", "date" : "26.10.2024", "time" : "1:15 AM", "team1name" : "Turni", "team2name" : "Como", "team1image" : "image", "team2image" : "image", "league_image" : "image", "team1goal" : "3", "team2goal" : "0", "link" : "aaa"},
 { "club" : "Preamire League", "date" : "27.10.2024", "time" : "8:30 AM ", "team1name" : "ManU", "team2name" : "Man City", "team1image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvMH_NUjhwnZN756e41sC4q1-KvHkaWflG5Csnk5JP8v3XK1STrbgVuak&", "team2image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOw3t3O9zKW0aBTvWM5li7WxePYY3s_nHDoBnxwdaARi0hn404D3IFwrI&s", "league_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-FgF6eliPBRWD1WB7brybHCW6RWpv7PTeI_Yaj1hVgw&s", "team1goal" : "5", "team2goal" : "3", "link" : "link"}
 ]
