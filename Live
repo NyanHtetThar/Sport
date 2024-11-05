@@ -1,4 +1,5 @@
 [
+{ "live" : "open", "club" : "AFC Champions League Elite", "date" : "", "time" : "", "team1name" : "", "team2name" : "", "team1image" : "", "team2image" : "", "league_image" : "https://i.postimg.cc/3JZDb8bb/inbound2424175904760161631.png", "link1" : "", "link2" : "", "link3" : "", "link4" : ""},
 { "live" : "close", "club" : "Serie A", "date" : "5.11.2024", "time" : "12:00 AM", "team1name" : "Empoli", "team2name" : "Como", "team1image" : "https://i.postimg.cc/WpMtcgX7/inbound4333953012856878744.png", "team2image" : "https://i.postimg.cc/qRjNWCsL/inbound2902424442544088684.png", "league_image" : "https://i.postimg.cc/jqwd6WfZ/20241028-235902.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "https://pull.niues.live/live/stream-344370_lhd.m3u8?auth_key=1730568448-0-0-3dc961d6cc339c95ea21ca551d4ab068"}
 ]
 
