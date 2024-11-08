@@ -1,5 +1,5 @@
 [
-{ "live" : "live", "club" : "Serie A", "date" : "5.11.2024", "time" : "12:00 AM", "team1name" : "Empoli", "team2name" : "Como", "team1image" : "https://i.postimg.cc/WpMtcgX7/inbound4333953012856878744.png", "team2image" : "https://i.postimg.cc/qRjNWCsL/inbound2902424442544088684.png", "league_image" : "https://i.postimg.cc/jqwd6WfZ/20241028-235902.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"}
+{ "live" : "live", "club" : "Serie A", "date" : "5.11.2024", "time" : "12:00 AM", "team1name" : "Empoli", "team2name" : "Como", "team1image" : "https://i.postimg.cc/WpMtcgX7/inbound4333953012856878744.png", "team2image" : "https://i.postimg.cc/qRjNWCsL/inbound2902424442544088684.png", "league_image" : "https://i.postimg.cc/jqwd6WfZ/20241028-235902.png", "link1" : "https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1731057268-0-0-5b2d3921ee11188da8dbee1fa009d147", "link2" : "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=869c1be53d1a533f3c04a789db073229&txTime=672e1d00", "link3" : "https://pull.niur.live/live/stream-434982_lhd.m3u8?txSecret=646db1498a6520cad86cc553fb77dd60&txTime=672e1d3c", "link4" : "https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1731057388-0-0-8fa42d1d2176aec044107f4999d2aafa"}
 ]
 
 
