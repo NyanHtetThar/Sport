@@ -14,6 +14,8 @@
 
 { "live" : "close", "club" : "LaLiga", "date" : "24.11.2024", "time" : "12:00 AM", "team1name" : "Girona", "team2name" : "Espanyol", "team1image" : "https://i.postimg.cc/5201SY44/inbound1556168998357582360.png", "team2image" : "https://i.postimg.cc/T19R9BpF/inbound1852529276980051756.png", "league_image" : "https://i.postimg.cc/HxJXrxvJ/20241028-224832.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
+{ "live" : "close", "club" : "Ligue 1", "date" : "24.11.2024", "time" : "12:30 AM", "team1name" : "Saint-Etienne", "team2name" : "Montpellier", "team1image" : "https://i.postimg.cc/QC6SJt3d/inbound7143778404924026519.png", "team2image" : "https://i.postimg.cc/NM1YC3JX/inbound6629491887702836486.png", "league_image" : "https://i.postimg.cc/tC5c7yDy/20241029-144331.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
+
 { "live" : "close", "club" : "LaLiga", "date" : "24.11.2024", "time" : "2:30 AM", "team1name" : "Celta Vigo", "team2name" : "Barcelona", "team1image" : "https://i.postimg.cc/FsgSMqXW/inbound8097333849425188310.png", "team2image" : "https://i.postimg.cc/nrTZTd4S/20241030-001740.png", "league_image" : "https://i.postimg.cc/HxJXrxvJ/20241028-224832.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
 { "live" : "close", "club" : "Ligue 1", "date" : "24.11.2024", "time" : "2:30 AM", "team1name" : "Reims", "team2name" : "Lyon", "team1image" : "https://i.postimg.cc/br7qyyKJ/inbound4392030747413063959.png", "team2image" : "https://i.postimg.cc/YqPdS4n8/inbound119916839992707159.png", "league_image" : "https://i.postimg.cc/tC5c7yDy/20241029-144331.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
