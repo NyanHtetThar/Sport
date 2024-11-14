@@ -1,4 +1,5 @@
 [
+{ "live" : "close", "club" : "LaLiga", "date" : "24.11.2024", "time" : "9:45 AM", "team1name" : "Sevilla", "team2name" : "Rayo Vallecano", "team1image" : "https://i.postimg.cc/J0s74ss4/inbound2592474623357694132.png", "team2image" : "https://i.postimg.cc/d19NkDcr/inbound6548916438042226452.png", "league_image" : "https://i.postimg.cc/HxJXrxvJ/20241028-224832.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
 { "live" : "close", "club" : "LaLiga", "date" : "24.11.2024", "time" : "12:00 AM", "team1name" : "Las Palmas", "team2name" : "Mallorca", "team1image" : "https://i.postimg.cc/289qNBSJ/inbound8899814919192061151.png", "team2image" : "https://i.postimg.cc/6QjWN6y6/inbound1732710613368659793.png", "league_image" : "https://i.postimg.cc/HxJXrxvJ/20241028-224832.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
