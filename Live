@@ -5,7 +5,7 @@
 
 { "live" : "close", "club" : "Serie A", "date" : "23.11.2024", "time" : "10:00 PM", "team1name" : "Hellas Verona", "team2name" : "Inter", "team1image" : "https://i.postimg.cc/1zm6dMp2/inbound8861942693887013767.png", "team2image" : "https://i.postimg.cc/SN2hDY8r/inbound292108651365027480.png", "league_image" : "https://i.postimg.cc/jqwd6WfZ/20241028-235902.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
-{ "live" : "close", "club" : "Bundesliga", "date" : "23.11.2024", "time" : "10:30 PM", "team1name" : "Bundesliga", "team2name" : "Augsburg", "team1image" : "https://i.postimg.cc/zDF1k9FQ/20241028-214737.png", "team2image" : "https://i.postimg.cc/Cx5nT3bb/inbound1851998169792551737.png", "league_image" : "https://i.postimg.cc/Y0GqvRJ7/20241028-214557.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
+{ "live" : "close", "club" : "Bundesliga", "date" : "23.11.2024", "time" : "10:30 PM", "team1name" : "Bundesliga", "team2name" : "FC Heidenheim", "team1image" : "https://i.postimg.cc/zDF1k9FQ/20241028-214737.png", "team2image" : "https://i.postimg.cc/Cx5nT3bb/inbound1851998169792551737.png", "league_image" : "https://i.postimg.cc/Y0GqvRJ7/20241028-214557.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
 { "live" : "close", "club" : "Bundesliga", "date" : "23.11.2024", "time" : "10:30 PM", "team1name" : "Dortmund", "team2name" : "Freiburg", "team1image" : "https://i.postimg.cc/1RG0512F/inbound5738280261368436237.png", "team2image" : "https://i.postimg.cc/15wk32BN/inbound6702896198638623958.png", "league_image" : "https://i.postimg.cc/Y0GqvRJ7/20241028-214557.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
