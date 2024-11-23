@@ -28,6 +28,7 @@
 
 { "live" : "close", "club" : "LaLiga", "date" : "23.11.2024", "time" : "11:15 PM", "team1name" : "Atletico Madrid", "team2name" : "Deportivo Alaves", "team1image" : "https://i.postimg.cc/TwNS7Zys/20241030-002604.png", "team2image" : "https://i.postimg.cc/Sxb4wSp8/inbound3287704295494516396.png", "league_image" : "https://i.postimg.cc/HxJXrxvJ/20241028-224832.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
+{ "live" : "close", "club" : "Ligue 1", "date" : "24.11.2024", "time" : "12:00 AM", "team1name" : "Lens", "team2name" : "Marseille", "team1image" : "https://i.postimg.cc/R05CWWjY/20241028-233623.png", "team2image" : "https://i.postimg.cc/4423mZzB/inbound5858254792801271343.png", "league_image" : "https://i.postimg.cc/tC5c7yDy/20241029-144331.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
 
 
