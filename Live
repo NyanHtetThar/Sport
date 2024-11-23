@@ -31,6 +31,10 @@
 
 
 
+{ "live" : "close", "club" : "Premier league", "date" : "24.11.2024", "time" : "1:30 AM", "team1name" : "Man City", "team2name" : "Tottenham", "team1image" : "https://i.postimg.cc/gcMGX6wD/inbound6120052151433601064.png", "team2image" : "https://i.postimg.cc/76nYQsZ8/inbound2356262269709835563.png", "league_image" : "https://i.postimg.cc/2857S1vc/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
+
+
+
 
 
 
@@ -53,8 +57,6 @@
 { "live" : "close", "club" : "Premier league", "date" : "24.11.2024", "time" : "11:00 AM", "team1name" : "Ipswich", "team2name" : "Man United", "team1image" : "https://i.postimg.cc/jdzGD2fR/inbound2647515067849503334.png", "team2image" : "https://i.postimg.cc/DwcFZXwK/inbound1507943837853650759.png", "league_image" : "https://i.postimg.cc/2857S1vc/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
 { "live" : "close", "club" : "Bundesliga", "date" : "24.11.2024", "time" : "12:00 AM", "team1name" : "Frankfurt", "team2name" : "Werder Bremen", "team1image" : "https://i.postimg.cc/TPsLQCSf/inbound6072532145626510657.png", "team2image" : "https://i.postimg.cc/XYGkWBbj/inbound4410056268844408739.png", "league_image" : "https://i.postimg.cc/Y0GqvRJ7/20241028-214557.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
-
-{ "live" : "close", "club" : "Premier league", "date" : "24.11.2024", "time" : "12:00 AM", "team1name" : "Man City", "team2name" : "Tottenham", "team1image" : "https://i.postimg.cc/gcMGX6wD/inbound6120052151433601064.png", "team2image" : "https://i.postimg.cc/76nYQsZ8/inbound2356262269709835563.png", "league_image" : "https://i.postimg.cc/2857S1vc/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
 { "live" : "close", "club" : "LaLiga", "date" : "24.11.2024", "time" : "12:00 AM", "team1name" : "Las Palmas", "team2name" : "Mallorca", "team1image" : "https://i.postimg.cc/289qNBSJ/inbound8899814919192061151.png", "team2image" : "https://i.postimg.cc/6QjWN6y6/inbound1732710613368659793.png", "league_image" : "https://i.postimg.cc/HxJXrxvJ/20241028-224832.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
