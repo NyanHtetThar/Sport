@@ -30,7 +30,7 @@
 
 { "live" : "close", "club" : "Ligue 1", "date" : "24.11.2024", "time" : "12:00 AM", "team1name" : "Lens", "team2name" : "Marseille", "team1image" : "https://i.postimg.cc/R05CWWjY/20241028-233623.png", "team2image" : "https://i.postimg.cc/4423mZzB/inbound5858254792801271343.png", "league_image" : "https://i.postimg.cc/tC5c7yDy/20241029-144331.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
-
+{ "live" : "close", "club" : "Serie A", "date" : "24.11.2024", "time" : "1:00 AM", "team1name" : "AC Milan", "team2name" : "Juventus", "team1image" : "https://i.postimg.cc/g0W1bmkX/inbound7242708357298225271.png", "team2image" : "https://i.postimg.cc/L4BKBZRM/20241029-002805.png", "league_image" : "https://i.postimg.cc/jqwd6WfZ/20241028-235902.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
 { "live" : "close", "club" : "Premier league", "date" : "24.11.2024", "time" : "1:30 AM", "team1name" : "Man City", "team2name" : "Tottenham", "team1image" : "https://i.postimg.cc/gcMGX6wD/inbound6120052151433601064.png", "team2image" : "https://i.postimg.cc/76nYQsZ8/inbound2356262269709835563.png", "league_image" : "https://i.postimg.cc/2857S1vc/premier-league-new-logo-D22-A0-CE87-E-seeklogo-com.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"},
 
